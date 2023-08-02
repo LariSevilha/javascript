@@ -1,0 +1,15 @@
+const é uma constante, ou seja, não pode ser mudada durante a execução d programa
+
+// ou /* */
+
+tipos primitivos = string, float, double, boolean, int....
+
+undefine = declarada mas não atribuida valor -> var nome = "";
+
+null = ausencia intencional de valor -> var nome = null;
+
+let não consegue ser acessada fora da função
+
+-----------------------------------------------------
+
+

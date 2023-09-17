@@ -18,8 +18,8 @@ class Usuario{
     }
 }
 
-const autor = new Autor('larissa', 'brasileira', '10/02/2004' )
-const livro = new Livro('o menino maluquinho', '2010')
+const autor   = new Autor('larissa', 'brasileira', '10/02/2004' )
+const livro   = new Livro('o menino maluquinho', '2010')
 const usuario = new Usuario('carlos', '15')
 
 //autor
